@@ -1,2 +1,8 @@
 # Link_summary
-再生リストごとのプレハブへのまとめて書いておくよ！  【FPS編】 【2Dスクロール編】 【番外編】
+再生リストごとのリポジトリへのリンクまとめて書いておくよ！  
+【FPS編】
+https://github.com/OnlineGameProductionDepartment/FPS
+【2Dスクロール編】
+ﾏﾀﾞｰ
+【番外編】
+ﾏﾀﾞｰ
